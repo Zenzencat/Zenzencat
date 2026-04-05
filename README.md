@@ -9,7 +9,7 @@ Based in Bangkok 🇹🇭 · Age 17 · AI Major @ SWU Prasarnmit
 
 ## 🚀 Featured Projects
 
-### 🔦 [Photon ID]([https://github.com/Zenzencat/photon-id](https://github.com/Zenzencat/Photon-ID-)) — Corneal-Glint Liveness Detection
+### 🔦 [Photon ID](https://github.com/Zenzencat/Photon-ID-) — Corneal-Glint Liveness Detection
 > Defeats deepfakes using the physics of light — no ML model required.
 
 Flashes coloured light at the user and measures the precise latency of the corneal reflection. A liveness signal that screens, printed photos, and video loops physically cannot replicate. Built for the **Samsung × KBTG Digital Fraud Hackathon** (Top 8, Final Round).
