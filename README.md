@@ -1,4 +1,4 @@
-# Hi, I'm Trong (Zen) 👋
+# Hi, I'm Trong Srinutaphong (Zen) 👋
 
 **AI Engineer · Computer Vision · Robotics**  
 Building AI systems that interact with the real world — from corneal-glint deepfake detection to autonomous robots and food resilience networks.
