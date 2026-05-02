@@ -27,6 +27,15 @@ Integrates crop-risk forecasting, microinsurance modelling, and supply-chain red
 
 ---
 
+### 🛡️ Project Aegis — Offline Scam Protection for Migrant Workers
+> Protecting the most vulnerable from digital fraud — even without internet access.
+
+An offline-first scam detection app built for migrant workers who lack reliable connectivity. Detects fraudulent messages and suspicious patterns locally on-device, removing the dependency on cloud infrastructure. Built with Team "Lorem Ipsum" for the **AI Ready ASEAN Youth Challenge 2026** — 🥈 2nd Place, representing Thailand.
+
+`Python` `Offline AI` `NLP` `Mobile`
+
+---
+
 ### 🚢 Arrival Guard — Port Congestion Early Warning System
 > Predicts Laem Chabang port congestion 48 hours ahead.
 
