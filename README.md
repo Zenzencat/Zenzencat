@@ -3,7 +3,7 @@
 **AI Engineer · Computer Vision · Robotics**  
 Building AI systems that interact with the real world — from corneal-glint deepfake detection to autonomous robots and food resilience networks.
 
-Based in Bangkok 🇹🇭 · Age 17 · AI Major @ SWU Prasarnmit
+📍 Bangkok, Thailand 🇹🇭 · Age 17 · AI Major @ SWU Prasarnmit
 
 ---
 
@@ -52,6 +52,7 @@ Built complete ROS navigation stack with SLAM localisation, zone-to-coordinate m
 | 🥇 **Top 8 · Final Round** | Samsung × KBTG Digital Fraud Cybersecurity Hackathon | 2025 |
 | 🌏 **National Finalist** | ASEAN Data Science Explorers — SAP / ASEAN Foundation | 2025 |
 | 🛡️ **Ranked 7th · Final Round** | Thailand Cyber Top Talent — NCSA | 2025 |
+| 🥈 **2nd Place** | AI Ready ASEAN Youth Challenge | 2026 |
 | 🤖 **Participant** | ROS Thailand Open | 2025 |
 | 🎵 **Distinction** | Trinity College London Grade 6 Piano | 2023 |
 
@@ -82,7 +83,7 @@ Built complete ROS navigation stack with SLAM localisation, zone-to-coordinate m
 ## 📫 Contact
 
 - 📸 Instagram: [@srinutaphong](https://instagram.com/srinutaphong)
-- 📧 Trongsrinutaphong@gmail.com
+- 📧 [Trongsrinutaphong@gmail.com](mailto:Trongsrinutaphong@gmail.com)
 
 ---
 
