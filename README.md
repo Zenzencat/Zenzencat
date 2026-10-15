@@ -1,99 +1,35 @@
-# Hi, I'm Trong Srinutaphong (Zen) 👋
+# Trong Srinutaphong (ตรง ศรีนุตพงษ์) · Zen
 
-**AI Engineer · Computer Vision · Robotics**  
-Building AI systems that interact with the real world — from corneal-glint deepfake detection to autonomous robots and food resilience networks.
+**ML & Computer Vision · Cybersecurity · Robotics** — Bangkok, Thailand
 
-📍 Bangkok, Thailand 🇹🇭 · Age 17 · AI Major @ SWU Prasarnmit
+Building AI systems that interact with the real world. AI Engineering major at SWU Prasarnmit Demonstration School (Secondary).
 
----
+**Portfolio: [trongsrinutaphong.vercel.app](https://trongsrinutaphong.vercel.app)**
 
-## 🚀 Featured Projects
+## Projects
 
-### 🔦 [Photon ID](https://github.com/Zenzencat/Photon-ID-) — Corneal-Glint Liveness Detection
-> Defeats deepfakes using the physics of light — no ML model required.
+- **[SyncGuard](https://trongsrinutaphong.vercel.app/projects/syncguard/)** — GNSS spoofing and jamming detection for 4G/5G base-station timing. RandomForest + SHAP, FastAPI, Moran's I / LISA hotspot mapping. Built entirely by me for ASEAN GeoAI FUSION 2026. [Code](https://github.com/Zenzencat/syncguard-agaif2026)
+- **[Project Pelagic](https://trongsrinutaphong.vercel.app/projects/pelagic/)** — U-Net oil-slick segmentation on Sentinel-1 SAR imagery with a live map pipeline. School capstone; lead developer. [Code](https://github.com/Zenzencat/Project-Pelagic)
+- **[Photon ID](https://trongsrinutaphong.vercel.app/projects/photon-id/)** — Corneal-glint liveness detection that defeats deepfakes using the physics of light. [Code](https://github.com/Zenzencat/Photon-ID-)
+- **[Autonomous Pick-and-Place Robot](https://trongsrinutaphong.vercel.app/projects/pick-and-place-robot/)** — Intel RealSense depth, YOLOv8 + OpenCV detection, 4-DOF arm with custom inverse kinematics.
+- **[Project Aegis](https://trongsrinutaphong.vercel.app/projects/aegis/)** — Concept for offline-first scam protection for migrant workers.
+- **[AgriGuard DFRI+](https://trongsrinutaphong.vercel.app/projects/agriguard/)** — System design for a decentralised food-resilience index for ASEAN, on SAP Analytics Cloud.
+- **[Arrival Guard](https://trongsrinutaphong.vercel.app/projects/arrival-guard/)** — Port congestion early warning for Laem Chabang, designed to forecast congestion 48 hours ahead.
 
-Flashes coloured light at the user and measures the precise latency of the corneal reflection. A liveness signal that screens, printed photos, and video loops physically cannot replicate. Built for the **Samsung × KBTG Digital Fraud Hackathon** (Top 8, Final Round).
+## Selected competitions
 
-`Python` `OpenCV` `MediaPipe` `HMAC-SHA256`
+| Result | Competition | Date |
+|---|---|---|
+| 2nd Place (Country) | AI Ready ASEAN Youth Challenge 2026 — AI Singapore × ASEAN Foundation | May 2026 |
+| Judge's Special Recognition Award · Finalist | ASEAN GeoAI FUSION 2026 — MCMC | Sep 2026 |
+| Top 8 Teams | Digital Fraud Cybersecurity Hackathon 2025 — Samsung × KBTG | Feb 2026 |
+| รองชนะเลิศอันดับที่ 3 (3rd Runner-Up) | Innovedex Robotics Competition Thailand 2025 | Aug 2025 |
+| Certificate of Achievement — National Finals – Thailand | ASEAN Data Science Explorers 2025 — SAP × ASEAN Foundation | Sep 2025 |
+| 4th place, Secondary School Level | Thailand Cyber Top Talent 2026 (NCSA) | Sep 2026 |
+| Team Rank 7 | Thailand Cyber Top Talent 2025 — Junior (NCSA) | Aug 2025 |
 
----
+Full list: [trongsrinutaphong.vercel.app/awards](https://trongsrinutaphong.vercel.app/awards/)
 
-### 🌾 AgriGuard DFRI+ — Decentralised Food Resilience Index
-> AI-driven hunger prediction and food redistribution system for ASEAN.
+## Tools
 
-Integrates crop-risk forecasting, microinsurance modelling, and supply-chain redistribution hubs using real FAO datasets. Advanced to the **ASEAN Data Science Explorers 2025 National Finals** (Thailand).
-
-`Python` `Data Science` `Predictive Modelling` `FAO Datasets`
-
----
-
-### 🛡️ Project Aegis — Offline Scam Protection for Migrant Workers
-> Protecting the most vulnerable from digital fraud — even without internet access.
-
-An offline-first scam detection app built for migrant workers who lack reliable connectivity. Detects fraudulent messages and suspicious patterns locally on-device, removing the dependency on cloud infrastructure. Built with Team "Lorem Ipsum" for the **AI Ready ASEAN Youth Challenge 2026** — 🥈 2nd Place, representing Thailand.
-
-`Python` `Offline AI` `NLP` `Mobile`
-
----
-
-### 🚢 Arrival Guard — Port Congestion Early Warning System
-> Predicts Laem Chabang port congestion 48 hours ahead.
-
-Fuses marine traffic, weather, and logistics data to help Thai SMEs hedge demurrage risk and optimise import/export timing.
-
-`Python` `FastAPI` `Time-Series Forecasting` `Logistics`
-
----
-
-### 🤖 ROS Autonomous Robot — ROS Thailand Open 2025
-> Full-stack autonomous navigation and manipulation system.
-
-Built complete ROS navigation stack with SLAM localisation, zone-to-coordinate mapping, and integrated YOLOv8 object detection driving a custom 4-DOF robotic arm with inverse kinematics.
-
-`ROS` `YOLOv8` `Python` `C++` `Arduino` `Inverse Kinematics`
-
----
-
-## 🏆 Competitions
-
-| Result | Competition | Year |
-|--------|-------------|------|
-| 🥇 **Top 8 · Final Round** | Samsung × KBTG Digital Fraud Cybersecurity Hackathon | 2025 |
-| 🌏 **National Finalist** | ASEAN Data Science Explorers — SAP / ASEAN Foundation | 2025 |
-| 🛡️ **Ranked 7th · Final Round** | Thailand Cyber Top Talent — NCSA | 2025 |
-| 🥈 **2nd Place** | AI Ready ASEAN Youth Challenge | 2026 |
-| 🤖 **Participant** | ROS Thailand Open | 2025 |
-| 🎵 **Distinction** | Trinity College London Grade 6 Piano | 2023 |
-
----
-
-## 🛠️ Skills
-
-**AI & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=yolo&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**Robotics**  
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Systems & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-
----
-
-## 📫 Contact
-
-- 📸 Instagram: [@srinutaphong](https://instagram.com/srinutaphong)
-- 📧 [Trongsrinutaphong@gmail.com](mailto:Trongsrinutaphong@gmail.com)
-
----
-
-*"You don't have to be great to start, but you have to start to be great."*
+Python · PyTorch · OpenCV · YOLOv8 · MediaPipe · scikit-learn · SHAP · FastAPI · SQLite · React · Leaflet.js · Docker · Arduino · Intel RealSense
