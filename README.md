@@ -11,7 +11,7 @@ Building AI systems that interact with the real world. AI Engineering major at S
 - **[SyncGuard](https://trongsrinutaphong.vercel.app/projects/syncguard/)** — GNSS spoofing and jamming detection for 4G/5G base-station timing. RandomForest + SHAP, FastAPI, Moran's I / LISA hotspot mapping. Built entirely by me for ASEAN GeoAI FUSION 2026. [Code](https://github.com/Zenzencat/syncguard-agaif2026)
 - **[Project Pelagic](https://trongsrinutaphong.vercel.app/projects/pelagic/)** — U-Net oil-slick segmentation on Sentinel-1 SAR imagery with a live map pipeline. School capstone; lead developer. [Code](https://github.com/Zenzencat/Project-Pelagic)
 - **[Photon ID](https://trongsrinutaphong.vercel.app/projects/photon-id/)** — Corneal-glint liveness detection that defeats deepfakes using the physics of light. [Code](https://github.com/Zenzencat/Photon-ID-)
-- **[Autonomous Pick-and-Place Robot](https://trongsrinutaphong.vercel.app/projects/pick-and-place-robot/)** — Intel RealSense depth, YOLOv8 + OpenCV detection, 4-DOF arm with custom inverse kinematics.
+- **[Autonomous Pick-and-Place Robot](https://trongsrinutaphong.vercel.app/projects/pick-and-place-robot/)** — YOLOv8 colour detection → base angle → preset motions (pick · grab · lift · place) on a 4-DOF arm; inverse kinematics started, not used in competition.
 - **[Project Aegis](https://trongsrinutaphong.vercel.app/projects/aegis/)** — Concept for offline-first scam protection for migrant workers.
 - **[AgriGuard DFRI+](https://trongsrinutaphong.vercel.app/projects/agriguard/)** — System design for a decentralised food-resilience index for ASEAN, on SAP Analytics Cloud.
 - **[Arrival Guard](https://trongsrinutaphong.vercel.app/projects/arrival-guard/)** — Port congestion early warning for Laem Chabang, designed to forecast congestion 48 hours ahead.
@@ -32,4 +32,4 @@ Full list: [trongsrinutaphong.vercel.app/awards](https://trongsrinutaphong.verce
 
 ## Tools
 
-Python · PyTorch · OpenCV · YOLOv8 · MediaPipe · scikit-learn · SHAP · FastAPI · SQLite · React · Leaflet.js · Docker · Arduino · Intel RealSense
+Python · PyTorch · OpenCV · YOLOv8 · MediaPipe · scikit-learn · SHAP · FastAPI · SQLite · React · Leaflet.js · Docker · Arduino
